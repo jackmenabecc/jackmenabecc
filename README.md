@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![Wahyu SA](https://komarev.com/ghpvc/?username=wahyusa "Wahyu SA")
-
+ 
 ---
 
 ## Wahyu SA
